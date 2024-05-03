@@ -271,7 +271,7 @@ while true; do
     case $WALL in
         [Yy])
             echo "${NOTE} Downloading additional wallpapers..."
-            if git clone "https://github.com/JaKooLit/Wallpaper-Bank.git"; then
+            if git clone "https://github.com/PuppyAnimations/Wallpaper-Bank.git"; then
                 echo "${NOTE} Wallpapers downloaded successfully." 2>&1 | tee -a "$LOG"
 
                 if cp -R Wallpaper-Bank/wallpapers/* ~/Pictures/wallpapers/ >> "$LOG" 2>&1; then
