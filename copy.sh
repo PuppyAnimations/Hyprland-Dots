@@ -12,11 +12,14 @@ if [[ $EUID -eq 0 ]]; then
     exit 1
 fi
 
-printf "\n%.0s" {1..3}  
-echo "                                   _   _ ___ __ "
-echo "   |  _.   |/  _   _  |  o _|_ __ | \ / \ | (_  "
-echo " \_| (_| o |\ (_) (_) |_ |  |_    |_/ \_/ | __) "
-printf "\n%.0s" {1..2} 
+printf "\n%.0s" {1..3}
+echo "  _____  _    _ _____  _______     __"
+echo " |  __ \| |  | |  __ \|  __ \ \   / /"
+echo " | |__) | |  | | |__) | |__) \ \_/ / "
+echo " |  ___/| |  | |  ___/|  ___/ \   /  "
+echo " | |    | |__| | |    | |      | |   "
+echo " |_|     \____/|_|    |_|      |_|   "
+printf "\n%.0s" {1..2}
 
 # Set some colors for output messages
 OK="$(tput setaf 2)[OK]$(tput sgr0)"
