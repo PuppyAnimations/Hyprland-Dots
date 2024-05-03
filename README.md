@@ -29,7 +29,7 @@ https://github.com/JaKooLit/Hyprland-Dots/assets/85185940/4bebe592-ca43-4962-9b5
 - ~/Pictures/wallpapers - Will be backed up
 - Clone this repo by using git. Change directory, make executable and run the script:
 ```bash
-git clone --depth=1 https://github.com/JaKooLit/Hyprland-Dots.git
+git clone --depth=1 https://github.com/PuppyAnimations/Hyprland-Dots.git
 cd Hyprland-Dots
 ```
 - to copy/install from upstream (possible bugs):
