@@ -3,7 +3,7 @@
 
 clear
 
-wallpaper=$HOME/Pictures/wallpapers/Fantasy-Landscape.png
+wallpaper=$HOME/Pictures/wallpapers/Anime-Landscape2.png
 Waybar_Style="$HOME/.config/waybar/style/[Pywal] Chroma Tally.css"
 
 # Check if running as root. If root, script will exit
@@ -296,7 +296,7 @@ done
 ln -sf "$Waybar_Style" "$HOME/.config/waybar/style.css" && \
 
 # initialize pywal to avoid config error on hyprland
-wal -i $wallpaper -s -t 2>&1 | tee -a "$LOG"
+wal -i $wallpaper -s -t -n -e 2>&1 | tee -a "$LOG"
 
 #initial symlink for Pywal Dark and Light for Rofi Themes
 ln -sf "$HOME/.cache/wal/colors-rofi-dark.rasi" "$HOME/.config/rofi/pywal-color/pywal-theme.rasi"
