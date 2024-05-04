@@ -8,6 +8,10 @@ configuration {
   modi: "drun";
 }
 
+window {
+  width: 60%;
+}
+
 /* ---- Imagebox ---- */
 imagebox {
   orientation: vertical;
@@ -17,7 +21,7 @@ imagebox {
 
 
 entry {
-  expand: true;
+  expand: false;
   placeholder: "󰸉 Choose Wallpaper";
 }
 
@@ -30,12 +34,17 @@ listview {
 /* ---- Element ---- */
 element {
   orientation: vertical;
+  padding: 0px;
+  spacing: 0px;
+  border-radius: 12px;
 }
 
 element-icon {
-  size: 150px;
+  size: 15%;
 }
 
 element-text {
   font: "Fira Code SemiBold 8";
+  vertical-align: 0.5;
+  horizontal-align: 0.5;
 }
