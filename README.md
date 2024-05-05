@@ -7,8 +7,12 @@
 <br/>
 </div>
 
+<div align="center">
+
 #### Preview
 https://github.com/JaKooLit/Hyprland-Dots/assets/85185940/4bebe592-ca43-4962-9b5c-38f16d63a9fa
+
+</div>
 
 #### My Hyprland install Scripts
 - You can install Hyprland using Scripts below:
