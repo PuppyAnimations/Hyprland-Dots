@@ -15,13 +15,13 @@ https://github.com/JaKooLit/Hyprland-Dots/assets/85185940/4bebe592-ca43-4962-9b5
 - [Arch-Linux](https://github.com/PuppyAnimations/Arch-Hyprland)
 - Refer to install scripts what packages needed to install... but atleast, Hyprland packages are needed.
 
-### 👀 Screenshots
+#### 👀 Screenshots
 - All screenshots are collected [here](https://github.com/PuppyAnimations/Hyprland-Dots-Showcase).
 
 #### 📦 Whats new?
 - To easily track changes, I will be updating the changelogs. [CHANGELOGS](https://github.com/PuppyAnimations/Hyprland-Dots/wiki/Changelogs)  Screenshots will be included if worth it!
 
-### 💥 Copying / Installation / Update instructions 💥
+#### 💥 Copying / Installation / Update instructions 💥
 - [MORE INFO HERE](https://github.com/PuppyAnimations/Hyprland-Dots/wiki/Install_&_Update) 
 > [!Note] 
 > The auto copy script will create backups of intended folders to be copied. However, still a good idea to manually backup just incase script failed to backup!
@@ -84,7 +84,7 @@ chmod +x upgrade.sh
 #### 🔮 Discord Server
 - Join JaKooLit's [Discord server](https://discord.gg/V2SJ92vbEN).
 
-### 💖 Support
+#### 💖 Support
 - A star on my Github repos would be nice.
 - Subscribe to JaKooLit's [Youtube Channel](https://www.youtube.com/@Ja.KooLit).
 - You can also buy JaKooLit Coffee Through ko-fi.com or Coffee.com.
