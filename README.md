@@ -10,7 +10,7 @@
 #### Preview
 https://github.com/JaKooLit/Hyprland-Dots/assets/85185940/4bebe592-ca43-4962-9b5c-38f16d63a9fa
 
-## My Hyprland install Scripts
+#### My Hyprland install Scripts
 - You can install Hyprland using Scripts below:
 - [Arch-Linux](https://github.com/PuppyAnimations/Arch-Hyprland)
 - Refer to install scripts what packages needed to install... but atleast, Hyprland packages are needed.
