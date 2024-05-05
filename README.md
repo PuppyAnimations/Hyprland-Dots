@@ -22,7 +22,7 @@ https://github.com/JaKooLit/Hyprland-Dots/assets/85185940/4bebe592-ca43-4962-9b5
 - To easily track changes, I will be updating the changelogs. [CHANGELOGS](https://github.com/PuppyAnimations/Hyprland-Dots/wiki/Changelogs)  Screenshots will be included if worth it!
 
 ### 💥 Copying / Installation / Update instructions 💥
-- [`MORE INFO HERE`](https://github.com/PuppyAnimations/Hyprland-Dots/wiki/Install_&_Update) 
+- [MORE INFO HERE](https://github.com/PuppyAnimations/Hyprland-Dots/wiki/Install_&_Update) 
 > [!Note] 
 > The auto copy script will create backups of intended folders to be copied. However, still a good idea to manually backup just incase script failed to backup!
 - ~/.config (btop cava hypr kitty rofi swappy swaync waybar wlogout) - These are folders to be copied.
@@ -58,7 +58,7 @@ chmod +x upgrade.sh
 #### 🛎️ A small note on wallpapers
 - by default, only few wallpapers will be copied (1 each dark and light plus 2 more). You will be offered to download more wallpapers. You can preview/check the additional wallpapers on [THIS](https://github.com/PuppyAnimations/Wallpaper-Bank/tree/main/wallpapers) Link
 
-#### ⚠️⚠️⚠️ A MUST! after copying / Installing these dots
+#### ⚠️ A MUST! after copying / Installing these dots
 
 + By default I have not set a wallpaper. Press SUPER W and set a wallpaper. This is also to initiate pywal for waybar, kitty (tty) and rofi themes. If you use the copy.sh script, you wont need to do this.
 + Nvidia Owners. Make sure to edit your `~/.config/hypr/UserConfigs/ENVariables.conf` (recommended). Below env's will be activated if automatic copy is used
@@ -85,7 +85,7 @@ chmod +x upgrade.sh
 - Join JaKooLit's [Discord server](https://discord.gg/V2SJ92vbEN).
 
 ### 💖 Support
-- A Star on my Github repos would be nice.
+- A star on my Github repos would be nice.
 - Subscribe to JaKooLit's [Youtube Channel](https://www.youtube.com/@Ja.KooLit).
 - You can also buy JaKooLit Coffee Through ko-fi.com or Coffee.com.
 
